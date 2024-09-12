@@ -5,4 +5,4 @@
 - Use a autoencoder to understand the features of the transformer.
 - Ultimately working towards a project that will aid the understanding of LLMs
 - Another project idea is to use natural language to pull up videos that match the query
-  - This can be useful for searching for film in sports.
+  - This can be useful for searching for film in sports. For example: Bring up highlights where the basketball player was able to complete a between the legs crossover.
